@@ -1,1 +1,1 @@
-# 30DaysOfJs-giggle
+# 30DaysOfJS-giggle
